@@ -382,7 +382,6 @@ body {
   display: flex;
 }
 .cleaning__title {
-  text-align: center;
   font-weight: 700;
   line-height: 109%;
   font-size: calc(37px + 31 * ((100vw - 320px) / 1120));
