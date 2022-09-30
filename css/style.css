@@ -387,7 +387,7 @@ body {
   font-size: calc(37px + 31 * ((100vw - 320px) / 1120));
 }
 .cleaning__subtitle {
-  text-align: center;
+  
   padding-top: 22px;
 }
 .cleaning__button {
