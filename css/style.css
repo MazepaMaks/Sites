@@ -978,6 +978,10 @@ body {
     max-width: 80%;
   }
 }
+@media (max-width: 376px) {
+  display: none;
+}
+  
 .covid-19__content {
   padding: 137px 73px;
   display: -webkit-box;
