@@ -976,11 +976,13 @@ body {
 @media (max-width: 426px) {
   .covid-19__img {
     max-width: 80%;
-    display: none;
   }
 }
 @media (max-width: 376px) {
-  display: none;
+  .covid-19__img{
+    display: none;
+  }
+  
 }
   
 .covid-19__content {
